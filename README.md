@@ -6,17 +6,9 @@ This Java program performs basic arithmetic operations and generates a Fibonacci
 
 Accepts user input for arithmetic operations (sum, difference, multiplication, and division)
 
-Generates a Fibonacci sequence of a given length
+Generates a Fibonacci sequence of a given length.
 
-Calculates statistical measures for the Fibonacci sequence:
-
-Sum
-
-Mean
-
-Variance
-
-Standard Deviation
+Calculates statistical measures for the Fibonacci sequencesuch as Sum, Mean, Variance, Standard Deviation.
 
 **Usage**
 
