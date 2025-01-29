@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 This Java program performs basic arithmetic operations and generates a Fibonacci sequence based on user input. Additionally, it calculates the sum, mean, variance, and standard deviation of the Fibonacci series.
 
-Features
+**Features**
 
 Accepts user input for arithmetic operations (sum, difference, multiplication, and division)
 
@@ -18,7 +18,7 @@ Variance
 
 Standard Deviation
 
-Usage
+**Usage**
 
 The program will prompt for two numbers to perform arithmetic operations.
 
